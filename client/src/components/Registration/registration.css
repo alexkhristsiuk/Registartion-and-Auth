@@ -1,0 +1,12 @@
+.registaration {
+    background-color: #508bfc;
+    height: 100vh;
+}
+
+.input {
+    padding: 5.5px;
+}
+
+.input::placeholder {
+    font-size: 24px;
+}

@@ -1,0 +1,16 @@
+button {
+    font-size: 22px;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.btn-unlock {
+    color: #e09f3e;
+    border: none;
+    cursor: pointer;
+}
+
+.btn-trash {
+    color: #e5383b;
+}

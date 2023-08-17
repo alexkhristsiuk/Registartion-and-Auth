@@ -1,0 +1,5 @@
+{
+    "serverPort": 5000,
+    "dbUrl": "mongodb+srv://dbAlex:s1RK8xIYJ2ILcucY@atlascluster.mansvah.mongodb.net/?retryWrites=true&w=majority",
+    "secretKey": "mern-secret-key"
+}

@@ -1,0 +1,11 @@
+.login {
+    background-color: #508bfc;
+    height: 100vh;
+}
+
+.link {
+    color:#af2e03 !important;
+    text-decoration: none;
+    font-size: 26px;
+    font-weight: 500;
+}
